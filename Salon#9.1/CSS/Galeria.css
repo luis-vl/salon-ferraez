@@ -1,0 +1,82 @@
+*{
+	box-sizing: border-box;
+}
+.tercera-foto{
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../IMAGENES/Logo-Salon.jpg);
+	float: left;
+	width: 100%;
+	height: 700px;
+	background-repeat:no-repeat;/* No se repetira */
+	background-size: cover;/* Imagen al 100% del ancho */
+	/*background-attachment: fixed;/* Posicion fija para la imagen */
+	background-position: center; /* posicion centrada*/
+
+}
+.contenergaleria{
+	width: 90%;
+	margin: auto;
+	clear: both;
+}
+.contenergaleria2{
+	padding-top: 0.5%;
+	margin-top: 50px;
+	text-align: center;
+}
+.section-title-divider3{
+  width: 900px;
+  height: 3px;
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.contenergaleria2 h1{
+	color: #fff;
+	font-family: Raleway;
+	font-size: 40px;
+	position: relative;
+	text-align: center;
+}
+.contenergaleria2 h3{
+	color: #fff;
+	font-family: Raleway;
+	font-size: 20px;
+	position: relative;
+	text-align: center;
+}
+.caja2{
+	width: 33.333%;
+	float: left;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	margin: auto;
+}
+.caja2 img{
+	border: 1px solid #fff;
+	width: 100%;
+	height: 200px;
+	float: left;
+	background-repeat:no-repeat;/* No se repetira */
+	background-size: cover;/* Imagen al 100% del ancho */
+	background-attachment: fixed;/* Posicion fija para la imagen */
+	background-position: center; /* posicion centrada*/
+}
+.inner-box{
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+}
+.caja2 .inner-box p {
+  color: #fff;
+  padding-bottom: 174px;
+  margin: 10px;
+  font-family: 'arial';
+  text-align: center;
+  border: 3px  solid #fff ;
+
+}
+.caja2:hover .inner-box {
+	opacity: .9;
+  transition: opacity .5s;
+}

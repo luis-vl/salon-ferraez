@@ -1,0 +1,112 @@
+.segunda-foto{
+	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../IMAGENES/istockphoto-671018812-612x612.jpg);
+	float: left;
+	width: 100%;
+	height: 700px;
+	background-repeat:no-repeat;/* No se repetira */
+	background-size: cover;/* Imagen al 100% del ancho */
+	/*background-attachment: fixed;/* Posicion fija para la imagen */
+	background-position: center; /* posicion centrada*/
+}
+.limpieza1{
+	margin-bottom: 3%;
+}
+.box1{
+	margin: auto;
+	clear: both;
+	position: relative;
+	width: 50%;
+	height: 700px;
+	text-align: center;
+	z-index: 1;
+	background: rgba(53, 61, 48);
+	-webkit-box-shadow: 0px 2px 10px 2px rgba(0,0,0,0.25);
+	-moz-box-shadow: 0px 2px 10px 2px rgba(0,0,0,0.25);
+	box-shadow: 0px 2px 10px 2px rgba(0,0,0,0.25);
+	margin-bottom: 10%;
+}
+.letras-box1{
+	width: 90%;
+	margin: auto;
+}
+.letras-box1 h1{
+	color: #fff;
+	font-family: Raleway;
+	font-size: 40px;
+	position: relative;
+	text-align: center;
+}
+.section-title-divider {
+  width: 900px;
+  height: 3px;
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.letras-box1 p{
+	top: 5px;
+	color: #fff;
+	font-family: Raleway;
+	font-size: 20px;
+	padding-top: 20px;
+	position: relative;
+	text-align: center;
+}
+.caja{
+	width: 33.333%;
+	float: left;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	margin: auto;
+}
+.caja img{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background-repeat:no-repeat;/* No se repetira */
+	background-size: cover;/* Imagen al 100% del ancho */
+	background-attachment: fixed;/* Posicion fija para la imagen */
+	background-position: center; /* posicion centrada*/
+}
+.cajablanca{
+	background-color: #fff;
+}
+.caja h1{
+	color: #000;
+	font-family: Raleway;
+	font-size: 25px;
+	position: relative;
+	text-align: center;
+}
+.caja p{
+	top: 5px;
+	color: #000;
+	font-family: Raleway;
+	font-size: 20px;
+	padding-top: 20px;
+	position: relative;
+	text-align: center;
+	padding-bottom: 20Px;
+}
+.Btn3-a a{
+	top: 5px;
+	color: #000;
+	font-family: Raleway;
+	font-size: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+.Btn3-a {
+    border: 1px solid #000;
+	text-decoration: none;
+	color:#000;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 10px 70px; 
+	letter-spacing: 1px;
+	
+}
+.Btn3-a:hover {
+      background: #777;
+      border: 2px solid $accent-color;
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="shortcut icon" type="image/x-icon" href="../IMAGENES/WhatsApp Image 2019-08-18 at 6.14.03 PM.ico">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>Farraez Beauty Salón</title>
+	<link rel="stylesheet" href="../CSS/EstiloReserva.css">
+	<link rel="stylesheet" href="../CSS/Responsive.css">
+</head>
+<body>
+
+	<header>
+		<div class="ancho"> <!--es el ancho del encabezado-->
+			<div class="logo"> <!--es la cajita del logo-->
+				<p><a href="Index.html">Farraez Beauty Salón</a></p>
+			</div>
+			<nav> <!--para navegar en las diferentes opciones q serian los Li-->
+				<ul><!--lo suse para las filas ordenadas-->
+					<li class="actual"><a href="index.html">Inicio</a></li>
+					<li><a href="index.html#servicio">Servicios</a></li>
+					<li><a href="index.html#precio">Precios</a></li>
+					<li><a href="index.html#galeria">Galeria</a></li>
+					<li><a href="index.html#contacto">Contactos</a></li>
+					<li><a href="index.html#nosotros">Nosotros</a></li>
+					<li></li><a href="IndexReserva.html" class="Btn1-a">Reservar Ahora</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<div class="slider">
+		<div class="cajitainp">
+			<div class="inp">
+			<!-- <input type="date" name="fecha"> -->
+			<br>
+			<!--Calendario:--> 
+			<label>Seleccione un Dia</label>
+			<input type="date" name="calendario" step="1" min="2019-01-01" max="2030-12-31" value="2019-01-01">
+			<!-- Os explico el ejemplo:
+   			‘min‘: Para que la fecha mínima sea el 1 de enero 2013.
+    		‘max‘: Para que la fecha máxima sea el 31 de diciembre 2013.
+    		‘value‘: Fecha por defecto el 1 de enero 2013.
+    		‘step‘: Para que el avance sel intervalo de los días sea de 1 en 1. -->
+
+			<!--<br>
+			<input type="date" name="cumpleanios" step="1" min="2013-01-01" max="2013-12-31" value="<?php echo date("Y-m-d")";?> -->
+
+			<br>
+			<label>Seleccione la Hora</label>
+			<input type="time" name="hora" value="08:00" max="23:59:59" min="00:00:00" step="1">
+			
+			<!-- <br> -->
+	<!-- <form action="https://www.anerbarrena.com/demos/2014/002-time-input-html5.php" name="formulario"> -->
+			<!-- <input type="time" name="hora" value="08:00:00" max="23:00:00" min="00:00:00" step="1"> -->
+
+			<br>
+			<input class="botonRes" type="submit" value="Enviar">
+	<!-- </form> -->
+			</div>
+
+		</div>
+
+		<img src="../IMAGENES/istockphoto-598239352-612x612.jpg" alt="">
+
+	</div>	
+
+	<div id="nosotros">
+	<div class="sin-foto2">
+	<section class="ancho1">
+
+	<section class="contenedor-columnas">
+		<section class="boxx3">
+		<h1>Sobre Nosotros</h1>
+	 
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur minus, eum mollitia doloribus voluptatum ducimus est harum dolore veritatis quaerat ea hic. Dolorum, natus. Placeat ipsa maiores quod ullam provident!</p>
+		</section>
+	
+	<section class="boxx3">
+		<h1>Enlaces Rápidos</h1>
+		
+		<a href="index.html#servicio">Servicios</a><br>
+		<a href="index.html#precio">Precios</a><br>
+		<a href="index.html#galeria">Galeria</a><br>
+		<a href="index.html#contacto">Contactos</a>
+	</section>
+	<section class="boxx3">
+		<h1>Horario de trabajo</h1>
+		 
+		<p>Lunes-Viernes</p><p>9am-5pm</p><br>
+		<p>Sábado</p><p>10am-2pm</p>
+	</section>
+
+	</section>
+	</section>
+	</div>
+</div>
+<!--pie de pagina-->
+<footer>
+	<div>Todos los derechos reservados 2019</div>
+	<div>Grupo "El Zelda"</div>
+</footer>
+</body>
+</html>

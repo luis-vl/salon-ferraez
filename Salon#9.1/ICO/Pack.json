@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "name": "Pack",
+    "lastOpened": 0,
+    "created": 1566252686575
+  },
+  "iconSets": [
+    {
+      "selection": [
+        {
+          "order": 1,
+          "id": 0,
+          "prevSize": 28,
+          "code": 59649,
+          "name": "cc-visa",
+          "tempChar": ""
+        }
+      ],
+      "id": 1,
+      "metadata": {
+        "name": "Font Awesome (subset)",
+        "url": "https://github.com/FortAwesome/Font-Awesome",
+        "designer": "Dave Gandy",
+        "designerURL": "https://github.com/davegandy",
+        "license": "Custom",
+        "licenseURL": "https://github.com/FortAwesome/Font-Awesome#license",
+        "iconsHash": 309851062,
+        "importSize": {
+          "width": 36,
+          "height": 28
+        }
+      },
+      "height": 1024,
+      "prevSize": 28,
+      "icons": [
+        {
+          "id": 0,
+          "paths": [
+            "M1128.571 565.714h-78.857c0 0 8-21.143 37.714-102.286-0.571 0.571 8-21.143 12.571-34.857l6.857 31.429c17.714 87.429 21.714 105.714 21.714 105.714zM303.429 528.571l-33.143-168.571c-4.571-23.429-22.286-30.857-42.857-30.857h-153.143l-1.143 7.429c105.143 26.857 191.429 84 230.286 192zM405.714 329.143l-92.571 250.286-9.714-50.857c-20-53.143-68.571-102.286-123.429-124.571l77.143 291.429h100l149.143-366.286h-100.571zM485.143 696h94.857l59.429-366.857h-94.857zM924 338.286c-18.857-7.429-48.571-15.429-85.143-15.429-93.714 0-159.429 49.714-160 121.143-0.571 52.571 46.857 81.714 82.857 99.429 37.143 17.714 49.143 29.714 49.143 45.714 0 24.571-29.714 35.429-56.571 35.429-38.286 0-58.857-4.571-89.143-18.857l-12.571-6.286-13.143 82.286c22.286 10.286 62.857 19.429 105.714 19.429 99.429 0.571 164-49.143 165.143-125.143 0-41.714-25.714-73.143-80-99.429-33.143-16.571-53.143-28.571-53.143-45.714 0-15.429 17.143-31.429 54.286-31.429 30.857-0.571 53.714 5.714 70.857 13.714l8.571 4.571zM1166.857 329.143h-73.143c-22.857 0-40 6.857-49.714 30.857l-140.571 336h99.429c16-45.143 20-54.857 20-54.857h121.143c0 0 2.857 12.571 11.429 54.857h88zM1316.571 146.286v731.429c0 40-33.143 73.143-73.143 73.143h-1170.286c-40 0-73.143-33.143-73.143-73.143v-731.429c0-40 33.143-73.143 73.143-73.143h1170.286c40 0 73.143 33.143 73.143 73.143z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "width": 1317,
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "cc-visa"
+          ],
+          "grid": 14
+        }
+      ],
+      "invisible": false,
+      "colorThemes": []
+    },
+    {
+      "selection": [
+        {
+          "order": 1,
+          "id": 1,
+          "prevSize": 32,
+          "code": 59650,
+          "name": "circle-up",
+          "tempChar": ""
+        },
+        {
+          "order": 4,
+          "id": 0,
+          "prevSize": 32,
+          "code": 59648,
+          "name": "credit-card",
+          "tempChar": ""
+        }
+      ],
+      "id": 0,
+      "metadata": {
+        "name": "IcoMoon - Free (subset)",
+        "licenseURL": "https://icomoon.io/#icons-icomoon",
+        "license": "GPL or CC BY 4.0",
+        "designerURL": "http://keyamoon.com",
+        "designer": "Keyamoon",
+        "url": "https://icomoon.io/#icons-icomoon",
+        "iconsHash": 767040192,
+        "importSize": {
+          "width": 32,
+          "height": 32
+        }
+      },
+      "height": 1024,
+      "prevSize": 32,
+      "icons": [
+        {
+          "id": 1,
+          "paths": [
+            "M0 512c0 282.77 229.23 512 512 512s512-229.23 512-512-229.23-512-512-512-512 229.23-512 512zM928 512c0 229.75-186.25 416-416 416s-416-186.25-416-416 186.25-416 416-416 416 186.25 416 416z",
+            "M706.744 669.256l90.512-90.512-285.256-285.254-285.254 285.256 90.508 90.508 194.746-194.744z"
+          ],
+          "attrs": [
+            {},
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "circle-up",
+            "up",
+            "circle-top",
+            "arrow"
+          ],
+          "grid": 16
+        },
+        {
+          "id": 0,
+          "paths": [
+            "M928 128h-832c-52.8 0-96 43.2-96 96v576c0 52.8 43.2 96 96 96h832c52.8 0 96-43.2 96-96v-576c0-52.8-43.2-96-96-96zM96 192h832c17.346 0 32 14.654 32 32v96h-896v-96c0-17.346 14.654-32 32-32zM928 832h-832c-17.346 0-32-14.654-32-32v-288h896v288c0 17.346-14.654 32-32 32zM128 640h64v128h-64zM256 640h64v128h-64zM384 640h64v128h-64z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "tags": [
+            "credit-card",
+            "money",
+            "payment",
+            "ecommerce"
+          ],
+          "grid": 16
+        }
+      ],
+      "invisible": false,
+      "colorThemes": []
+    }
+  ],
+  "uid": -1,
+  "preferences": {
+    "showGlyphs": true,
+    "showCodes": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon",
+        "majorVersion": 1,
+        "minorVersion": 0
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false,
+      "showMetadata": false,
+      "showMetrics": false,
+      "showSelector": false,
+      "showVersion": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "name": "icomoon",
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showLiga": true
+  }
+}
